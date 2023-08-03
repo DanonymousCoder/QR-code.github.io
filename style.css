@@ -9,6 +9,7 @@ body {
 }
 .container {
     background-color: white;
+    display: flex;
     height: 450px;
     width: 400px;
     align-items: center;
