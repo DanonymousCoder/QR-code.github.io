@@ -6,3 +6,6 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+.container {
+    background-color: white;
+}
