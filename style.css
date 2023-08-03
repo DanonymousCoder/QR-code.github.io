@@ -6,6 +6,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: center;
     background-color: rgb(92, 175, 253);
     padding: 45px;
 }
