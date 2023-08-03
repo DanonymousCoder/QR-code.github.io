@@ -10,7 +10,7 @@ body {
 .container {
     background-color: white;
     height: 100px;
-    
+    width: 70px;
 }
 img {
     height: 150px;
