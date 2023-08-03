@@ -19,4 +19,5 @@ img {
     height: 220px;
     width: 350px;
     margin: 5px;
+    border-radius: 10px;
 }
