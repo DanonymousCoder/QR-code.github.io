@@ -11,7 +11,7 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    height: 450px;
+    height: 550px;
     width: 400px;
     align-items: center;
 }
