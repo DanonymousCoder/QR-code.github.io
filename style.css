@@ -1,6 +1,8 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.container {
+body {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
